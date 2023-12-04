@@ -1,0 +1,22 @@
+{
+  "mahasiswa": [
+    {
+      "nama": "luhayu",
+      "nim": "21/479087/sv/19433",
+      "kelas": "A",
+      "jeniskelamin": "Perempuan",
+      "color": "#FFE3BB",
+      "icon": "map",
+      "id": 3
+    },
+    {
+      "nama": "Luh Ayu",
+      "nim": "21/479087/SV/19433",
+      "kelas": "A",
+      "jeniskelamin": "Perempuan",
+      "color": "#EEF296",
+      "icon": "hippo",
+      "id": 4
+    }
+  ]
+}
