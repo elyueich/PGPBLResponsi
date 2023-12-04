@@ -20,12 +20,8 @@ yarn start
 
 ## Step 2: Start your Application
 
-# responsi
-
 # Muslim in Bali
 Muslim in Bali adalah aplikasi yang menyediakan informasi yang diperlukan umat muslim yang berada atau sedang berkunjung ke Bali. Tujuannya untuk memudahkan umat muslim untuk beraktifitas tanpa melupakan kewajiban dan larangannya. Salah satu informasi yang saat ini disediakan adalah informasi terkait dengan persebaran Masjid. Akan disediakan titik lokasi masjid yang terdapat di Bali serta fitur routing ke lokasi masjid tersebut. Dengan demikian, pengguna dapat menemukan masjid terdekat dan menghindari dari melupakan kewajiban yang seharusnya ditunaikan.
-
-Berikutnya, aplikasi akan dikembangkan dengan menyertakan infroamsi restauran halal setelah  mendapatkan data yang konkrit. tujuannya agar pengguna dapat dengan mudah menemukan tempat makan yang halal dengan ulasan dan rating yang telah disertakan pengembang berdasarkan hasil penelitian, pengkajian, atau observasi. 
 
 # Komponen Pembangun Produk
 Produk dibangung dengan memanfaatkan berbagai teknologi yakni:
@@ -41,8 +37,47 @@ Produk dibangung dengan memanfaatkan berbagai teknologi yakni:
 Data Persebaran masjid saat ini diperoleh melalui google maps. Proses pemerolehan data dilakukan dengan menerapkan metode crawling data dengan memanfaatkan ekstensi instance data scrapper dan geocode by awesome table.
 
 # Tangkapan layar komponen penting produk
-![image](https://github.com/elyueich/responsi/assets/142762429/1ae8d95e-56f8-4385-8356-f72efee813a5)
-![image](https://github.com/elyueich/responsi/assets/142762429/10469878-e484-41c3-ba3a-3ba8a23d3fdd)
+## Home
+![image](https://github.com/elyueich/PGPBLResponsi/assets/142762429/fd1d9e1b-5e32-45d0-b444-755986db0268)
+![image](https://github.com/elyueich/PGPBLResponsi/assets/142762429/9e147e42-1a99-49f9-be39-8fa9c9ab7687)
+
+## Maps
+![image](https://github.com/elyueich/PGPBLResponsi/assets/142762429/29bac568-5221-4828-badf-a979289cdc99)
+![image](https://github.com/elyueich/PGPBLResponsi/assets/142762429/98f6ada3-e399-4429-adee-ff5073fc517e)
+![image](https://github.com/elyueich/PGPBLResponsi/assets/142762429/bb1f4587-5dc2-4f02-8c93-fbc2fe027dae)
+
+## Add Data
+![image](https://github.com/elyueich/PGPBLResponsi/assets/142762429/3791406f-2d16-4436-883a-8cdcdf05c93b)
+![image](https://github.com/elyueich/PGPBLResponsi/assets/142762429/66a7f51f-3c36-4beb-8476-0c004e77ff63)
+![image](https://github.com/elyueich/PGPBLResponsi/assets/142762429/57cc1c1b-8773-4c85-9cc8-27871b097b4f)
+![image](https://github.com/elyueich/PGPBLResponsi/assets/142762429/3ffbfe2d-ec53-4f68-9c35-ca6e45f7dc55)
+
+## List Data
+![image](https://github.com/elyueich/PGPBLResponsi/assets/142762429/7e03d0a2-b75d-45a5-b004-459e905b3f53)
+![image](https://github.com/elyueich/PGPBLResponsi/assets/142762429/8559ae8c-0325-4afc-b304-daf3d172e287)
+![image](https://github.com/elyueich/PGPBLResponsi/assets/142762429/834f54a3-1de7-42a5-aeb0-cd53e2de12af)
+
+### coba routing (problem: location from isnt right)
+![image](https://github.com/elyueich/PGPBLResponsi/assets/142762429/4bf50098-e64a-4a56-a3f3-ad4759623a7d)
+#### where the phone detect
+![image](https://github.com/elyueich/PGPBLResponsi/assets/142762429/8b6b4083-b1c7-43a8-8ba7-dbf331fd33aa)
+#### the destination
+![image](https://github.com/elyueich/PGPBLResponsi/assets/142762429/c54672f6-5e5c-42ac-8cbf-05c1515853f8)
+
+## Profile
+![image](https://github.com/elyueich/PGPBLResponsi/assets/142762429/043b31ab-b543-405c-90b1-4c865e739cd3)
+![image](https://github.com/elyueich/PGPBLResponsi/assets/142762429/b719d651-d472-4877-af66-5b86e6aaafca)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
