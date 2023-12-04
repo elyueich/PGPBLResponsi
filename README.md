@@ -21,8 +21,8 @@ Data Persebaran masjid saat ini diperoleh melalui google maps. Proses pemeroleha
 
 ## Maps
 ![image](https://github.com/elyueich/PGPBLResponsi/assets/142762429/29bac568-5221-4828-badf-a979289cdc99)
-![image](https://github.com/elyueich/PGPBLResponsi/assets/142762429/98f6ada3-e399-4429-adee-ff5073fc517e)
-![image](https://github.com/elyueich/PGPBLResponsi/assets/142762429/bb1f4587-5dc2-4f02-8c93-fbc2fe027dae)
+![image](https://github.com/elyueich/PGPBLResponsi/assets/142762429/d6ebeea6-c8f7-41a0-8966-d434adc8deab)
+
 
 ## Add Data
 ![image](https://github.com/elyueich/PGPBLResponsi/assets/142762429/3791406f-2d16-4436-883a-8cdcdf05c93b)
